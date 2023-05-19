@@ -1,0 +1,63 @@
+.menu li {
+    list-style: none;
+    display: inline-block;
+    border: 2px outset black;
+    border-radius: 5px;
+    border-color: aqua;
+    margin: 5px;
+    padding: 5px 10px;
+    text-align: left;
+}
+
+.cabecera h1 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: blueviolet;
+
+}
+
+.menu {
+    background-color: rgb(223, 223, 223);
+    text-align: left;
+}
+
+h1,
+h2,
+h3 {
+    color: red;
+}
+
+header,
+section,
+footer,
+aside,
+nav,
+article {
+    display: block;
+}
+
+body {
+    text-align: center;
+    background: rgb(205, 253, 255);
+}
+
+.formulario {
+    width: 900px;
+    border: 2px double black;
+    margin: 15px auto;
+
+}
+
+.seccion {
+    margin: 20px;
+    width: 600px;
+    float: left;
+}
+
+article {
+    border: 1px solid black;
+    padding: 20px;
+    margin-bottom: 25px;
+    background-color: beige;
+}
