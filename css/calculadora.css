@@ -34,6 +34,7 @@
 
 .calculadora button:hover {
     background-color: rgb(235, 206, 180);
+    cursor: pointer;
 }
 
 .labelResultado {
